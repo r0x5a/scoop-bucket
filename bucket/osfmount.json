@@ -18,6 +18,6 @@
         "regex": "download the OSFMount V([\\.\\d]+)"
     },
     "autoupdate": {
-        "url": "https://www.osforensics.com/downloads/osfmount.exe"
+        "url": "https://www.osforensics.com/downloads/osfmount.exe#/setup.exe"
     }
 }
