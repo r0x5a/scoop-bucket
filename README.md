@@ -7,6 +7,6 @@
 After manifests have been committed and pushed, run the following:
 
 ```pwsh
-scoop bucket add scoop-bucket https://github.com/r0x5a/scoop-bucket
-scoop install scoop-bucket/<manifestname>
+scoop bucket add r0x5a https://github.com/r0x5a/scoop-bucket
+scoop install r0x5a/<manifestname>
 ```
