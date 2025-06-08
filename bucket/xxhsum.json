@@ -1,16 +1,11 @@
 {
-    "version": "0.8.2",
+    "version": "0.8.3",
     "description": "Extremely fast non-cryptographic hash algorithm",
     "license": "BSD-2-Clause",
     "homepage": "https://github.com/Cyan4973/xxHash",
-    "url": "https://github.com/Cyan4973/xxHash/releases/download/v0.8.2/xxhsum_win64_v0_8_2.zip#/dl.zip",
-    "hash": "da5c93b831cdf211f784c2e454c1a396e2725cc0aaa8b679dccb713b15ff2159",
-    "shortcuts": [
-        [
-            "xxhsum.exe",
-            "xxhsum"
-        ]
-    ],
+    "url": "https://github.com/Cyan4973/xxHash/releases/download/v0.8.3/xxhsum_win64_v0_8_3.zip#/dl.zip",
+    "hash": "a6a6170d07ca37d74151dbea9cd6e1dbb881b5ceea34b9447e01f62b1442d40a",
+    "bin": "xxhsum.exe",
     "checkver": {
         "script": [
             "$data = Invoke-RestMethod -Method Get https://api.github.com/repos/Cyan4973/xxHash/releases?per_page=1",
