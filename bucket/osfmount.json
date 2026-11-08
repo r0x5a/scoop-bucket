@@ -1,10 +1,10 @@
 {
-    "version": "3.1.1003",
+    "version": "3.3.1000",
     "description": "OSFMount allows you to mount local disk image files (bit-for-bit copies of an entire disk or disk partition) in Windows as a physical disk or a logical drive letter.",
     "homepage": "https://www.osforensics.com/tools/mount-disk-images.html",
     "license": "Freeware",
     "url": "https://www.osforensics.com/downloads/osfmount.exe#/setup.exe",
-    "hash": "9fe0738b7c2d29a7414e67f53aea359f3801d1c37b44f1b4fed5d02cb7536369",
+    "hash": "5986bebd3f4954580b5ec910749712e533438a5ef4589c17562f6b07f386cb76",
     "innosetup": true,
     "bin": "OSFMount.exe",
     "shortcuts": [
